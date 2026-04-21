@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on: Parent Up, a platform designed to improve and streamline communication between separated parents.<br><br>🌱 I’m currently learning: Advanced Node.js architecture, Design Patterns, and AI workflows with Vercel AI SDK.<br><br>🌍 Languages: I am currently improving my English and learning Arabic.<br><br>💬 Ask me about: TypeScript, Next.js, Angular, Node.js, and Convex.<br><br>🤝 I’m looking for help with: Advanced AI integration (RAG) and LLM fine-tuning.<br><br>⚡ Fun fact: I can fall asleep in less than 5 minutes.
+🔭 I’m currently working on: Parent Up, a platform designed to improve and streamline communication between separated parents.
+
+🌱 I’m currently learning: Advanced Node.js architecture, Design Patterns, and AI workflows with Vercel AI SDK.
+
+🌍 Languages: I am currently improving my English and learning Arabic.
+
+💬 Ask me about: TypeScript, Next.js, Angular, Astro, Svelte, and Node.js.
+
+🏀 Sports: 
+   -  Big NBA fan. I don't follow a specific team since players get traded often, but I'm supporting the Spurs this year. 
+
+   - 🏉 Also a NFL enthusiast and a fan of the Seattle Seahawks.
+
+😂 Fun fact: I can fall asleep in less than 5 minutes.
 
 
 ## 🌐 Socials:
